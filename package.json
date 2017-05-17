@@ -1,0 +1,39 @@
+{
+    "name": "one-monokai-dim",
+    "displayName": "One Monokai Dim",
+    "description": "A cross between Monokai and One Dark theme",
+    "version": "0.0.1",
+    "publisher": "houcer",
+    "engines": {
+        "vscode": "^0.0.1"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "icon": "icon.svg",
+    "contributes": {
+        "themes": [
+            {
+                "label": "One Monokai Dim",
+                "uiTheme": "vs-dark",
+                "path": "./themes/OneMonokaiDim.tmTheme"
+            }
+        ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/houcer/vscode-one-monokai-dim.git"
+    },
+    "bugs": {
+        "url": "https://github.com/houcer/vscode-one-monokai-dim/issues"
+    },
+    "homepage": "https://github.com/houcer/vscode-one-monokai-dim/blob/master/README.md",
+    "keywords": [
+        "Vscode",
+        "Theme",
+        "Onedark",
+        "Monokai"
+    ],
+    "author": "houcer",
+    "license": "MIT"
+}
